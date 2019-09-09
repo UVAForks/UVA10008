@@ -2,6 +2,8 @@
 
 解題技巧:字母統計
 
+
+```
 import java.util.*;
 
 class Letter implements Comparable<Letter>//實作Arrays.sort方法
@@ -70,3 +72,4 @@ public class UVA10008
     }
  }
 
+```
